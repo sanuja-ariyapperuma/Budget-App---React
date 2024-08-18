@@ -10,7 +10,6 @@ This is a react application to manage incomes, expenses, and saving targets. The
 - Features to add the value of the target saving.
 - Features to add the value of the saving amount.
 - Display summary section showing total income, total expenses, target saving amount, and current saving amount.
-- Working Application :
 - Feature to transfer the balance amount to the saving amount.
 - Remove items in income and expense sources.
 - Local storage usage to persist data.
