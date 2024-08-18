@@ -1,0 +1,9 @@
+.transactionItemArea {
+  @apply flex align-middle border-b-2;
+}
+.transactionItemDescription {
+  @apply mr-5 p-3;
+}
+.transactionDeleteButton {
+  @apply p-3 pt-4;
+}
